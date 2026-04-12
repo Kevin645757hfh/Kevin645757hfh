@@ -1,6 +1,6 @@
 ## Kevin Silva Fernandes
 ---
-<p>atualmente cursando Desenvolvimento de Sistemas na etec Vasco Antonio Venchiarutti</p>
+<p>*atualmente cursando Desenvolvimento de Sistemas na etec Vasco Antonio Venchiarutti*</p>
 <p>Focado em aumentar meu conhecimento e habilidades em programação, sempre que possivel aumentando meu conhecimento na area e buscando cada vez aprender mais.</p>
 
 ## Atualmente aprendendo:
