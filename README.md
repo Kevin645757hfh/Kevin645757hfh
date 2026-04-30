@@ -7,5 +7,6 @@
 <p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40"/>
  <img src="https://img.shields.io/badge/Tinkercad-00C7B7?style=for-the-badge&logo=autodesk&logoColor=white">
 </p>
