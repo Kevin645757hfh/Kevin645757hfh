@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/wuAZa7GWEogAAAAC/black-star-soul-eater.gif" height= "400px" width= "1000px">
+<img src="https://media1.tenor.com/m/wuAZa7GWEogAAAAC/black-star-soul-eater.gif" height= "350px" width= "1000px">
 
 ---
 
@@ -33,5 +33,14 @@ Link: https://github.com/etecvav26-1C2-10/portiflio-pw
 </div>
 
 ---
+
+## GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin645757hfh&theme=tokyonight" 
+    height="180"
+  />
+</p>
 
 
