@@ -30,3 +30,9 @@ Link: https://github.com/etecvav26-1C2-10/portiflio-pw
 <img src="https://skillicons.dev/icons?i=html,css,cpp" />
 
 </div>
+
+---
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kevin645757hfh&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+</p>
