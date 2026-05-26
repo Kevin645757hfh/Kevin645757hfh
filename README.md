@@ -1,6 +1,7 @@
 <img src="https://media1.tenor.com/m/wuAZa7GWEogAAAAC/black-star-soul-eater.gif" height= "400px" width= "1000px">
 
 ---
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&size=35&lines=👋+Bem-vindo+ao+meu+perfil!;💻+Programador+Iniciante+-+Maior+Prota+da+ETEC😎💯" />
 
 ---
@@ -33,6 +34,4 @@ Link: https://github.com/etecvav26-1C2-10/portiflio-pw
 
 ---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kevin645757hfh&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-</p>
+
