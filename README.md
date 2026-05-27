@@ -37,24 +37,8 @@ Link: https://github.com/etecvav26-1C2-10/portiflio-pw
 ## GitHub Stats
 
 <p align="center">
-
-  
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin645757hfh&theme=tokyonight" 
     height="180"
   />
 </p>
-
----
-
-## 🎵 Spotify
-
-<p align="center">
-  <a href="https://open.spotify.com/user/313ue2f36qbfb4goiokzlsl4aj7y">
-    <img 
-      src="https://img.shields.io/badge/Spotify-Whitexpei-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
-    />
-  </a>
-</p>
-
-
