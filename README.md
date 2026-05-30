@@ -7,9 +7,11 @@
 ---
 
 ## Kevin Silva Fernandes
----
+
 **atualmente cursando Desenvolvimento de Sistemas na ETEC Vasco Antonio Venchiarutti**
 <p>Focado em aumentar meu conhecimento e habilidades em programação, sempre que possivel aumentando meu conhecimento na area e buscando cada vez aprender mais.</p>
+
+---
 
 <h2> Link para os portifólios: </h2>
 
@@ -23,6 +25,17 @@ Link: https://github.com/etecvav26-1C2-10/Portifolio-SE
 - Portifólio de Programação Web: <br>
 Link: https://github.com/etecvav26-1C2-10/portiflio-pw
 
+---
+## Projetos
+
+| Projeto | Descrição | Linguagem |
+|---|---|---|
+| <a href= "https://github.com/etecvav26-1C2-10/portfolio-pa">Portfolio-pa</a> | portifolio usado para publicarmos as atividades de PA (Programação e algoritmo) | Portugol, C++ |
+| <a href="https://github.com/etecvav26-1C2-10/portiflio-pw">Portiflio-pw</a> | portifolio usado para publicar as atividades de PW (Programação e algoritmo) | Html, CSS, Javascript |
+| <a href="https://github.com/etecvav26-1C2-10/Portifolio-SE">Portiflio-SE</a> | portifolio usado para publicar as atividades de SE (Sistemas embarcados) | C++|
+| <a href="https://github.com/Kevin645757hfh/Aulas-Etec">Aulas etec</a> | Portifolio pessoal para publicar todas as minhas atividades feitas durante o ensino médio na Etec, assim podendo acompanhar de perto minha progressão e evolução | Html, CSS, C++
+
+---
 
 <div align="center">
 
