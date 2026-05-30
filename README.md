@@ -6,14 +6,14 @@
 
 ---
 
-## Kevin Silva Fernandes
+## 👤 Kevin Silva Fernandes
 
 **atualmente cursando Desenvolvimento de Sistemas na ETEC Vasco Antonio Venchiarutti**
 <p>Focado em aumentar meu conhecimento e habilidades em programação, sempre que possivel aumentando meu conhecimento na area e buscando cada vez aprender mais.</p>
 
 ---
 
-<h2> Link para os portifólios: </h2>
+<h2> 🔗 Link para os portifólios: </h2>
 
 - Portifólio de Programação e Algoritimos: <br>
 Link: https://github.com/etecvav26-1C2-10/portfolio-pa
@@ -26,7 +26,7 @@ Link: https://github.com/etecvav26-1C2-10/Portifolio-SE
 Link: https://github.com/etecvav26-1C2-10/portiflio-pw
 
 ---
-## Projetos
+## 📂 Projetos
 
 | Projeto | Descrição | Linguagem |
 |---|---|---|
@@ -47,7 +47,7 @@ Link: https://github.com/etecvav26-1C2-10/portiflio-pw
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img 
