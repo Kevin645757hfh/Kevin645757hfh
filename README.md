@@ -33,7 +33,7 @@ Link: https://github.com/etecvav26-1C2-10/portiflio-pw
 | <a href= "https://github.com/etecvav26-1C2-10/portfolio-pa">Portfolio-pa</a> | portifolio usado para publicarmos as atividades de PA (Programação e algoritmo) | Portugol, C++ |
 | <a href="https://github.com/etecvav26-1C2-10/portiflio-pw">Portiflio-pw</a> | portifolio usado para publicar as atividades de PW (Programação e algoritmo) | Html, CSS, Javascript |
 | <a href="https://github.com/etecvav26-1C2-10/Portifolio-SE">Portiflio-SE</a> | portifolio usado para publicar as atividades de SE (Sistemas embarcados) | C++|
-| <a href="https://github.com/Kevin645757hfh/Aulas-Etec">Aulas etec</a> | Portifolio pessoal para publicar todas as minhas atividades feitas durante o ensino médio na Etec, assim podendo acompanhar de perto minha progressão e evolução | Html, CSS, C++ |
+| <a href="https://github.com/Kevin645757hfh/Aulas-Etec">Aulas etec</a> | Portifolio pessoal para publicar todas as minhas atividades feitas durante o ensino médio na Etec, assim podendo acompanhar de perto meu progresso e evolução | Html, CSS, C++ |
 | <a href="https://github.com/Kevin645757hfh/atividades-proprias-cpp">Atividades C++</a> | repositorio feito para apenas publicar atividades não escolares de C++ | C++ |
 
 ---
