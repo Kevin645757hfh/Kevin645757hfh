@@ -1,8 +1,8 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQxdTNsYmhkenA4OTZ1aGp4ZG13bTU1NGpjZGxiMThjbzg4MmtuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VLzbEtlbwJUFljcRbf/giphy.gif" height= "350px" width= "1000px">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRycG03MWp3ZDJxdTY4amM0NnNjaHFxaHlsZXpqc2JjcHJvYWVieSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UsTL1WhfyCf6AiHKEM/giphy.gif" height= "350px" width= "1000px">
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B59FF&center=true&vCenter=true&width=1200&size=35&lines=👋+Bem-vindo+ao+meu+perfil!;💻+Programador+Iniciante+-+Maior+Prota+da+ETEC😎💯" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=1200&size=35&lines=Não+deixe+as+pessoas+estragarem+sua+felicidade" />
 
 ---
 
