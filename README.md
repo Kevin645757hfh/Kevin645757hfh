@@ -6,41 +6,42 @@
 
 ---
 
-## 👤 Kevin Silva Fernandes
+# 👤 Kevin Silva Fernandes
 
-**atualmente cursando Desenvolvimento de Sistemas na ETEC Vasco Antonio Venchiarutti**
-<p>Focado em aumentar meu conhecimento e habilidades em programação, sempre que possivel aumentando meu conhecimento na area e buscando cada vez aprender mais.</p>
+**Currently studying Systems Development at ETEC Vasco Antonio Venchiarutti**
+
+<p>Focused on continuously improving my programming knowledge and skills, always seeking new opportunities to learn more and grow in the technology field.</p>
 
 ---
 
-<h2> 🔗 Link para os portifólios: </h2>
+## 🔗 Portfolio Links
 
-- Portifólio de Programação e Algoritimos: <br>
+- **Programming and Algorithms Portfolio:**  
 Link: https://github.com/etecvav26-1C2-10/portfolio-pa
 
-- Portifólio de Sistemas Embarcados  <br>
+- **Embedded Systems Portfolio:**  
 Link: https://github.com/etecvav26-1C2-10/Portifolio-SE
 
-
-- Portifólio de Programação Web: <br>
+- **Web Development Portfolio:**  
 Link: https://github.com/etecvav26-1C2-10/portiflio-pw
 
 ---
-## 📂 Projetos
 
-| Projeto | Descrição | Linguagem |
+## 📂 Projects
+
+| Project | Description | Language |
 |---|---|---|
-| <a href= "https://github.com/etecvav26-1C2-10/portfolio-pa">Portfolio-pa</a> | portifolio usado para publicarmos as atividades de PA (Programação e algoritmo) | Portugol, C++ |
-| <a href="https://github.com/etecvav26-1C2-10/portiflio-pw">Portiflio-pw</a> | portifolio usado para publicar as atividades de PW (Programação e algoritmo) | Html, CSS, Javascript |
-| <a href="https://github.com/etecvav26-1C2-10/Portifolio-SE">Portiflio-SE</a> | portifolio usado para publicar as atividades de SE (Sistemas embarcados) | C++|
-| <a href="https://github.com/Kevin645757hfh/Aulas-Etec">Aulas etec</a> | Portifolio pessoal para publicar todas as minhas atividades feitas durante o ensino médio na Etec, assim podendo acompanhar de perto meu progresso e evolução | Html, CSS, C++ |
-| <a href="https://github.com/Kevin645757hfh/atividades-proprias-cpp">Atividades C++</a> | repositorio feito para apenas publicar atividades não escolares de C++ | C++ |
+| <a href="https://github.com/etecvav26-1C2-10/portfolio-pa">Portfolio-PA</a> | Portfolio used to publish Programming and Algorithms (PA) activities and assignments. | Portugol, C++ |
+| <a href="https://github.com/etecvav26-1C2-10/portiflio-pw">Portfolio-PW</a> | Portfolio used to publish Web Programming (PW) activities and assignments. | HTML, CSS, JavaScript |
+| <a href="https://github.com/etecvav26-1C2-10/Portifolio-SE">Portfolio-SE</a> | Portfolio used to publish Embedded Systems (SE) activities and assignments. | C++ |
+| <a href="https://github.com/Kevin645757hfh/Aulas-Etec">Etec Classes</a> | Personal portfolio created to publish all activities completed during high school at ETEC, allowing me to track my progress and development over time. | HTML, CSS, C++ |
+| <a href="https://github.com/Kevin645757hfh/atividades-proprias-cpp">C++ Activities</a> | Repository dedicated to publishing personal C++ projects and exercises outside of school activities. | C++ |
 
 ---
 
 <div align="center">
 
-## 📚 Linguagens Aprendidas
+## 📚 Learned Languages
 
 <img src="https://skillicons.dev/icons?i=html,css,cpp" />
 
