@@ -41,11 +41,3 @@ Link: https://github.com/etecvav26-1C2-10/portiflio-pw
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript">
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevin645757hfh&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=FF5555&hide_border=true" />
-</p>
